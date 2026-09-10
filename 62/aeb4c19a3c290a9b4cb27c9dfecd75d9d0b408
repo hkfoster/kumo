@@ -1,0 +1,21 @@
+packages/kumo-docs-astro/src/components/demos/LayerDialogDemo.tsx
+  s_78b25c93ef18f7::t_165f8c6001844e 145-148,161-165
+packages/kumo/src/components/layer-dialog/layer-dialog.tsx
+  s_78b25c93ef18f7::t_2df50fd7988f23 329-334,368,410-411,442,471,473,541,561-566
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "62aeb4c19a3c290a9b4cb27c9dfecd75d9d0b408",
+  "prompts": {},
+  "sessions": {
+    "s_78b25c93ef18f7": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f7352cceeffec2zPGQVC7G3JZB",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    }
+  }
+}
