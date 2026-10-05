@@ -1,0 +1,43 @@
+.changeset/checkbox-card-appearance.md
+  s_9e756f26b140e1::t_3dd94461996f8c 1-5
+.changeset/joined-radio-cards.md
+  s_9e756f26b140e1::t_bc00bc51c4b218 1-5
+packages/kumo-docs-astro/src/components/demos/CheckboxDemo.tsx
+  s_9e756f26b140e1::t_4b30395c2e7b38 124-192
+packages/kumo-docs-astro/src/pages/components/checkbox.mdx
+  s_9e756f26b140e1::t_0d000a375aef4f 23-24,143-164
+packages/kumo-docs-astro/src/pages/components/radio.mdx
+  s_9e756f26b140e1::t_0b382db142b4d2 205-206,235-236
+packages/kumo/src/components/checkbox/checkbox.test.tsx
+  s_9e756f26b140e1::t_0680b5be3a6ccf 16-84
+packages/kumo/src/components/checkbox/checkbox.tsx
+  s_9e756f26b140e1::t_be9b69ea14d168 29-40,45,50-51,61-67,72,80-84,91-102,236-247,259-267,270-271,398,400,407-506,539,573-575,579-581,589-596,602-614
+packages/kumo/src/components/radio/radio.test.tsx
+  s_9e756f26b140e1::t_853af61a95c53c 103-143
+packages/kumo/src/components/radio/radio.tsx
+  s_187559fd43ffb8::t_654f295866daf0 46,111-112,114,118,122,328-332,338-340,380-392,395-399,404,406,426,541-543,555-560,575-577,579
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ef62abce80ce45b34405bd35b8d59df3500aa140",
+  "prompts": {},
+  "sessions": {
+    "s_187559fd43ffb8": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_187559fd43ffb8",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    },
+    "s_9e756f26b140e1": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "fringe-hawthorn",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    }
+  }
+}
