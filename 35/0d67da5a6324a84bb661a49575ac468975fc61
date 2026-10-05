@@ -1,0 +1,29 @@
+packages/kumo/src/components/radio/radio.tsx
+  s_9e756f26b140e1::t_e66d7e270afbc2 52,354,557-560,575
+packages/kumo/src/components/radio/radio.test.tsx
+  s_015e0f0bac0153::t_508bc92ea557c4 172-175,181-183,185-188
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "350d67da5a6324a84bb661a49575ac468975fc61",
+  "prompts": {},
+  "sessions": {
+    "s_015e0f0bac0153": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_015e0f0bac0153",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    },
+    "s_9e756f26b140e1": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "fringe-hawthorn",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    }
+  }
+}
