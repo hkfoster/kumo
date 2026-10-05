@@ -1,0 +1,21 @@
+packages/kumo/src/components/radio/radio.test.tsx
+  s_4207924187a273::t_8d3b531028457f 187-188
+packages/kumo/src/components/radio/radio.tsx
+  s_4207924187a273::t_ec4110a51c9006 52,354
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "c92bb31b3d3285fc227408bde559970dd487d385",
+  "prompts": {},
+  "sessions": {
+    "s_4207924187a273": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_4207924187a273",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    }
+  }
+}
