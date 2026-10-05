@@ -1,0 +1,21 @@
+packages/kumo-docs-astro/src/components/demos/HomeGrid.tsx
+  s_9e756f26b140e1::t_04d0dee3488f59 569
+packages/kumo-docs-astro/src/components/demos/SliderDemo.tsx
+  s_9e756f26b140e1::t_ab15dbd1b5a7bc 5,13-15,58,66
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "007c4b4081af80cc8a08df14d00cee023f960ff9",
+  "prompts": {},
+  "sessions": {
+    "s_9e756f26b140e1": {
+      "agent_id": {
+        "tool": "windsurf",
+        "id": "fringe-hawthorn",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    }
+  }
+}
