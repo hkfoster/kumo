@@ -1,0 +1,29 @@
+.changeset/calm-radios-segment.md
+  s_50312f567eab04::t_28697031cf7000 1-5
+packages/kumo-docs-astro/src/components/demos/RadioDemo.tsx
+  s_50312f567eab04::t_a12d2f661c74be 49-142
+packages/kumo-docs-astro/src/pages/components/radio.mdx
+  s_50312f567eab04::t_0e356bfec7f302 16-20,109-186
+packages/kumo/src/components/radio/radio.test.tsx
+  s_50312f567eab04::t_8182c5aca5ff38 1,3,106,109-323
+packages/kumo/src/components/radio/radio.tsx
+  s_50312f567eab04::t_f691ba47ff47f2 2,5,46,50-55,67,81,233,235-236,295-296,299,327-330,339-363,371,374,378,380,408,450,503-513,534,536-537,539-548,551
+packages/kumo/src/components/radio/radio.type-spec.tsx
+  s_50312f567eab04::t_834e629d544d0c 58,100-106,118
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d72d3351688cdd6fdfc2d73e14ab13c3caa553e2",
+  "prompts": {},
+  "sessions": {
+    "s_50312f567eab04": {
+      "agent_id": {
+        "tool": "devin",
+        "id": "s_50312f567eab04",
+        "model": "unknown"
+      },
+      "human_author": "Kyle Foster <kfoster@cloudflare.com>"
+    }
+  }
+}
